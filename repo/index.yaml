@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   reporting-k8s-wynepay:
   - apiVersion: v2
+    created: "2022-02-23T04:55:01.295626795Z"
+    description: WynePay Reporting Templates
+    digest: ba5833b0d342106670a81aa3fd6cc3ddc4fd4e0950feaf00f706d56fcc32a8c5
+    name: reporting-k8s-wynepay
+    type: application
+    urls:
+    - https://pye-aung.github.io/bof/repo/reporting-k8s-wynepay-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
     created: "2022-02-23T04:50:47.120650866Z"
     description: WynePay Reporting Templates
     digest: a2c58a90a9beccbe9e9621497033b81152424ef537c62d114fd7b14d94ebedab
@@ -37,4 +46,4 @@ entries:
     urls:
     - https://pye-aung.github.io/bof/repo/reporting-k8s-wynepay-1.0.1.tgz
     version: 1.0.1
-generated: "2022-02-23T04:50:47.11904335Z"
+generated: "2022-02-23T04:55:01.294962491Z"
